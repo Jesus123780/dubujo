@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dubujo/static/css/main.9307ba9d.chunk.css",
+    "main.js": "/dubujo/static/js/main.828ba025.chunk.js",
+    "main.js.map": "/dubujo/static/js/main.828ba025.chunk.js.map",
+    "runtime-main.js": "/dubujo/static/js/runtime-main.313388cb.js",
+    "runtime-main.js.map": "/dubujo/static/js/runtime-main.313388cb.js.map",
+    "static/js/2.67a012bb.chunk.js": "/dubujo/static/js/2.67a012bb.chunk.js",
+    "static/js/2.67a012bb.chunk.js.map": "/dubujo/static/js/2.67a012bb.chunk.js.map",
+    "index.html": "/dubujo/index.html",
+    "precache-manifest.492cec62cd7bed03d63333f9bb5a5bca.js": "/dubujo/precache-manifest.492cec62cd7bed03d63333f9bb5a5bca.js",
+    "service-worker.js": "/dubujo/service-worker.js",
+    "static/css/main.9307ba9d.chunk.css.map": "/dubujo/static/css/main.9307ba9d.chunk.css.map",
+    "static/js/2.67a012bb.chunk.js.LICENSE.txt": "/dubujo/static/js/2.67a012bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.313388cb.js",
+    "static/js/2.67a012bb.chunk.js",
+    "static/css/main.9307ba9d.chunk.css",
+    "static/js/main.828ba025.chunk.js"
+  ]
+}
